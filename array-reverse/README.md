@@ -33,7 +33,7 @@ Write a function called reverseArray which takes an array as an argument. Withou
 
 ### Whiteboard Visual
 ***[Your Whiteboard Image]***
-![Image 1](./img/reverse-arr.drawio.png)
+![Image 1](./challenge/reverse-array.png)
 
 
 ---
