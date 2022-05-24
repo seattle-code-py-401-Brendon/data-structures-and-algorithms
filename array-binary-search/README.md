@@ -33,7 +33,7 @@ Write a function called __BinarySearch__ which takes in __2 parameters__: a __so
 
 ### Whiteboard Visual
 ***[Your Whiteboard Image]***
-![Image 1](./img/Untitled%20Diagram.drawio%20(1).png)
+![Image 1](./img/array-binary-search.png)
 
 
 ---
